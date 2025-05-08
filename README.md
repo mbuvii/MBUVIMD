@@ -87,7 +87,7 @@ Got issues? We’ve got your back! 💪
 
 - **Build Fails**: Verify `PRIVATE_REPO_TOKEN` has `read:packages` scope and you’re authorized to access. Contact the owner to get access.
 - **Bot Offline**: Ensure `SESSION_ID` is correct. Regenerate it at the session tool if needed.
-- **Need Help?** Join our [WhatsApp Group](https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P) or DM the owner at [wa.me/254746440595](https://wa.me/254746440595).
+- **Need Help?** Join our [WhatsApp Group](https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P) or DM the owner at [wa.me/254746440595](https://wa.me/254746440595)
 
 ## 🔥 Pro Tips
 
